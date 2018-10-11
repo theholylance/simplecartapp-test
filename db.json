@@ -1,12 +1,85 @@
-[
-{id:"0", name: "Il libro di tutti i libri", price: 21.5, description: "Un libro fenomenale, assolutamente imperdibile!"},
-{id:"1", name: "Esploriamo il corpo umano", price: 18, description: "Un grande classico della scienza per l'infanzia."},
-{id:"2", name: "Il libro di tutti i libri", price: 21.5, description: "Un libro fenomenale, assolutamente imperdibile!"},
-{id:"3", name: "Esploriamo il corpo umano", price: 18, description: "Un grande classico della scienza per l'infanzia."},
-{id:"4", name: "Il libro di tutti i libri", price: 21.5, description: "Un libro fenomenale, assolutamente imperdibile!"},
-{id:"5", name: "Esploriamo il corpo umano", price: 18, description: "Un grande classico della scienza per l'infanzia."},
-{id:"6", name: "Il libro di tutti i libri", price: 21.5, description: "Un libro fenomenale, assolutamente imperdibile!"},
-{id:"7", name: "Esploriamo il corpo umano", price: 18, description: "Un grande classico della scienza per l'infanzia."},
-{id:"8", name: "Il libro di tutti i libri", price: 21.5, description: "Un libro fenomenale, assolutamente imperdibile!"},
-{id:"9", name: "Esploriamo il corpo umano", price: 18, description: "Un grande classico della scienza per l'infanzia."}
+[{
+		"id": 0,
+		"name": "Il libro di tutti i libri",
+		"price": 21.5,
+		"description": "Un libro fenomenale, assolutamente imperdibile!"
+	},
+	{
+		"id": 1,
+		"name": "Esploriamo il corpo umano",
+		"price": 18,
+		"description": "Un grande classico della scienza per l'infanzia."
+	},
+	{
+		"id": 2,
+		"name": "Il libro di tutti i libri",
+		"price": 21.5,
+		"description": "Un libro fenomenale, assolutamente imperdibile!"
+	},
+	{
+		"id": 3,
+		"name": "Esploriamo il corpo umano",
+		"price": 18,
+		"description": "Un grande classico della scienza per l'infanzia."
+	},
+	{
+		"id": 4,
+		"name": "Il libro di tutti i libri",
+		"price": 21.5,
+		"description": "Un libro fenomenale, assolutamente imperdibile!"
+	},
+	{
+		"id": 5,
+		"name": "Esploriamo il corpo umano",
+		"price": 18,
+		"description": "Un grande classico della scienza per l'infanzia."
+	},
+	{
+		"id": 6,
+		"name": "Il libro di tutti i libri",
+		"price": 21.5,
+		"description": "Un libro fenomenale, assolutamente imperdibile!"
+	},
+	{
+		"id": 7,
+		"name": "Esploriamo il corpo umano",
+		"price": 18,
+		"description": "Un grande classico della scienza per l'infanzia."
+	},
+	{
+		"id": 8,
+		"name": "Il libro di tutti i libri",
+		"price": 21.5,
+		"description": "Un libro fenomenale, assolutamente imperdibile!"
+	},
+	{
+		"id": 9,
+		"name": "Esploriamo il corpo umano",
+		"price": 18,
+		"description": "Un grande classico della scienza per l'infanzia."
+	},
+	{
+		"id": 10,
+		"name": "Il libro di tutti i libri",
+		"price": 21.5,
+		"description": "Un libro fenomenale, assolutamente imperdibile!"
+	},
+	{
+		"id": 11,
+		"name": "Esploriamo il corpo umano",
+		"price": 18,
+		"description": "Un grande classico della scienza per l'infanzia."
+	},
+	{
+		"id": 12,
+		"name": "Il libro di tutti i libri",
+		"price": 21.5,
+		"description": "Un libro fenomenale, assolutamente imperdibile!"
+	},
+	{
+		"id": 13,
+		"name": "Esploriamo il corpo umano",
+		"price": 18,
+		"description": "Un grande classico della scienza per l'infanzia."
+	}
 ]
