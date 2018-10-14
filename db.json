@@ -1,4 +1,4 @@
-[
+{ "products": [
 	{
 		"id": 0,
 		"name": "Il libro di tutti i libri",
@@ -30,3 +30,4 @@
 		"description": "Un libro fenomenale, assolutamente imperdibile!"
 	}
 ]
+}
